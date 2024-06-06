@@ -13,6 +13,8 @@ For various reasons, you might want to look behind the curtain of these new scri
 
 ## Reference Blog Posts
 https://blog.beezwax.net/filemaker-semantic-search-part-1-fundamental-power/
+
+
 https://blog.beezwax.net/filemaker-semantic-search-part-2-key-details/
 
 
