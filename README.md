@@ -4,12 +4,17 @@ Tutorial file packaged as Beezwax AI Call Logging.fmp12
 Requires FileMaker 2024 (v21.x)
 
 ## Introduction
-FileMaker 2024 delivers native semantic search, and it’s awesome. Now you can search records whose text is similar to the semantic meaning of your search term, even if those records don’t include your exact search term.
+FileMaker 2024 delivers native semantic search, and it’s awesome. Now you can search records whose text is similar to the semantic meaning of your search term, even if those records don’t include your exact search term. Using natural language, users can be freed from trying to recall exactly how data was input.
 
-Using natural language, users can be freed from trying to recall exactly how data was input.
+The tutorial files (and the reference blog posts) explores implementing semantic search in FileMaker, using the 'Perform Semantic Find' script step. The 'CosineSimilarity' function helps expose how (semantically) similar each result is to a user's search term.
 
-## Reference Blog Post
+For various reasons, you might want to look behind the curtain of these new script steps, to learn more about what information those steps are passing to and receiving from your selected model. That’s where the new 'Set AI Call Logging' script step comes in.
+
+
+## Reference Blog Posts
+https://blog.beezwax.net/filemaker-semantic-search-part-1-fundamental-power/
 https://blog.beezwax.net/filemaker-semantic-search-part-2-key-details/
+
 
 ## Quickstart
 This tutorial file requires FileMaker 2024 (v21.x).
